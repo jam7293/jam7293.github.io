@@ -5,15 +5,15 @@ h1{
 }
 body{
     background-color:dimgray;
-    border-style:solid;
-    border-color:goldenrod;
-    border-width:1px;
+    border-style:dotted;
+    border-color:palegreen;
+    border-width:10px;
 }
 img.stats{
-    width:600px;
+    width:400px;
     border-style:solid;
-    border-color:goldenrod;
-    border-width:1px;
+    border-color:yellowgreen;
+    border-width:100px;
 }
 img.me{
     width:300px;
