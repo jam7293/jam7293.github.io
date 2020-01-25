@@ -10,6 +10,9 @@ h2 {
 }
 img.me {
     width:200px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
 }
 .jumbotron {
     /* Background */
