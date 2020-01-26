@@ -35,3 +35,11 @@ img.me {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.carousel {
+    border-style: solid;
+    border-color: black;
+    border-width:10px;
+}
+.footer img {
+    width: 60px;
+  }
