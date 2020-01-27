@@ -35,7 +35,6 @@ img.me {
     border-width:10px;
 }
 .jumbotron {
-    /* Background */
     background-attachment: fixed;
     background-image: url(chicagoskyline.png);
     background-repeat: no-repeat;
